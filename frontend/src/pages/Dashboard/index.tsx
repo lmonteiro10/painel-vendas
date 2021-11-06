@@ -1,6 +1,6 @@
 import BarChart from "componets/BarChart";
 import DataTable from "componets/DataTable";
-import DonutsChart from "componets/DonutsChart";
+import DonutsChart from "componets/DonutChart";
 import Footer from "componets/Footer";
 import NavBar from "componets/NavBar";
 

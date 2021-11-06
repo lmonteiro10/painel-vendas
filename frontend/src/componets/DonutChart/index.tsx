@@ -9,7 +9,7 @@ type ChartData = {
     series: number[];
 }
 
-const DonutsChart = () => {
+const DonutChart = () => {
 
     const [chartData, setChartData] = useState<ChartData>({ labels: [], series: []});
 
@@ -42,4 +42,4 @@ const DonutsChart = () => {
     );
 }
 
-export default DonutsChart;
+export default DonutChart;
